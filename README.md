@@ -12,4 +12,4 @@ This simple WordPress/WooCommerce snippet replaces the default "Add to Cart" but
 - Ready for translation (using `__()` function).
 
 ## Author
-Created by [Your Name]
+Created by [Mokhlesur Rahman]
